@@ -1,7 +1,7 @@
 # GI-WEEK-7
-This is a basic calculator built with HTML, CSS, and JavaScript.
+This is a basic Iphone calculator built with HTML, CSS, and JavaScript.
 
-Notes:
+Highlights:
 - This calculator supports basic arithmetic operations such as addition, subtraction, multiplication, and division.
 - To input numbers and operations, click on the corresponding buttons on the calculator interface.
 - The result will be displayed in the main display area.
