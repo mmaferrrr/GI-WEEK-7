@@ -7,9 +7,12 @@ Highlights:
 - The result will be displayed in the main display area.
 - If you encounter any errors, such as division by zero or invalid expressions, an error message will be displayed in the main display area.
 
-Usage:
+Usage and Installation:
 1. Clone this repository to your local machine.
 2. Open `index.html` in your web browser.
 3. Use the buttons to input numbers and operations.
 4. Press "=" or "Enter" to calculate the result.
 5. Press "C" to clear the display.
+
+License:
+Created by Maria F Torrealba
